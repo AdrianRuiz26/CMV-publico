@@ -26,6 +26,7 @@
       width: 100%;
       background: #004b98;
       padding: 1%;
+      margin-bottom: 5rem;
     }
     
     #menuhorizontal li {
@@ -45,19 +46,18 @@
     }
     
     img.imagen{
-        width: 33%;
+        width: 100%;
         height: 400px;
-        margin-top: 5rem;
-        display: inline-block;
-        transition: box-shadow 0.4s ease-in-out;
-        transition: transform .4s ease;
+        
         
     }
     
-        img.imagen:hover{
+        .elwidth:hover{
             transform: scale(1.05);
     
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8); 
+            
+            z-index: 10;
     }
 
     .divParrafo{
@@ -71,19 +71,46 @@
     .divParrafo:hover{
         background-color: #004b98;
         color: white;
+        
     }
- 
+
+    
 
 @media screen and (max-width: 1500px) {
 
-    img.imagen{
+    div.elwidth{
         display: block;
         margin: auto;
         width: 500px;
         height: 350px;
-        padding-top: 5rem;
+        margin-bottom: 5rem;
+        
         
         
     }
+
+    .divParrafo{
+      margin-top: 15rem;
+    }
     
+}
+
+
+.hola{
+  position: relative;
+  bottom: 40px;
+  color: #ffffff;
+  font-size: 2em;
+  background-color: #004c984b;
+  
+
+
+}
+
+.elwidth{
+  width: 32%;
+  margin: 0.5%;
+  display: inline-block;
+  transition: box-shadow 0.4s ease-in-out;
+  transition: transform .4s ease;
 }
