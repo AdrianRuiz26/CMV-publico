@@ -111,6 +111,6 @@
   width: 32%;
   margin: 0.5%;
   display: inline-block;
-  transition: box-shadow 0.4s ease-in-out;
+  height: 400px;
   transition: transform .4s ease;
 }
