@@ -1,63 +1,63 @@
 <orla>
     <elemento>
-        <nombre>foto 1</nombre>
+        <nombre>Buho</nombre>
         <foto>https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg</foto>
-        <pie>Buho</pie>
-        <detalle>Buho bonito</detalle>
+        <pie>Buho bonito</pie>
+        <detalle>Buho MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 2</nombre>
+        <nombre>Tortuga</nombre>
         <foto>https://cdn.pixabay.com/photo/2015/07/27/19/47/turtle-863336_960_720.jpg</foto>
-        <pie>Tortuga</pie>
-        <detalle>Tortuga bonito</detalle>
+        <pie>Tortuga bonito</pie>
+        <detalle>Tortuga MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 3</nombre>
+        <nombre>Guacamayo</nombre>
         <foto>https://cdn.pixabay.com/photo/2018/08/12/16/59/ara-3601194_960_720.jpg</foto>
-        <pie>Guacamayo</pie>
-        <detalle>Guacamayo bonito</detalle>
+        <pie>Guacamayo bonito</pie>
+        <detalle>Guacamayo MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 4</nombre>
+        <nombre>Elefante</nombre>
         <foto>https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_960_720.jpg</foto>
-        <pie>Elefante</pie>
-        <detalle>Elefante bonito</detalle>
+        <pie>Elefante bonito</pie>
+        <detalle>Elefante MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 5</nombre>
+        <nombre>Delfin</nombre>
         <foto>https://cdn.pixabay.com/photo/2013/11/01/11/13/dolphin-203875_960_720.jpg</foto>
-        <pie>Delfin</pie>
-        <detalle>Delfin bonito</detalle>
+        <pie>Delfin bonito</pie>
+        <detalle>Delfin MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 6</nombre>
+        <nombre>Gato</nombre>
         <foto>https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg</foto>
-        <pie>Gato</pie>
-        <detalle>Gato bonito</detalle>
+        <pie>Gato bonito</pie>
+        <detalle>Gato MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 7</nombre>
+        <nombre>Gato</nombre>
         <foto>https://cdn.pixabay.com/photo/2015/04/10/01/41/fox-715588_960_720.jpg</foto>
-        <pie>Gato</pie>
-        <detalle>Gato bonito</detalle>
+        <pie>Gato bonito</pie>
+        <detalle>Gato MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 8</nombre>
+        <nombre>Zorro</nombre>
         <foto>https://cdn.pixabay.com/photo/2017/01/14/12/59/iceland-1979445_960_720.jpg</foto>
-        <pie>Zorro artico</pie>
-        <detalle>Zorro artico bonito</detalle>
+        <pie>Zorro artico bonito</pie>
+        <detalle>Zorro artico MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 9</nombre>
+        <nombre>Pajaro</nombre>
         <foto>https://cdn.pixabay.com/photo/2017/05/08/13/15/bird-2295436_960_720.jpg</foto>
-        <pie>Pajaro gordete</pie>
-        <detalle>Pajaro gordete bonito</detalle>
+        <pie>Pajaro gordete bonito</pie>
+        <detalle>Pajaro gordete MUY bonito</detalle>
     </elemento>
     <elemento>
-        <nombre>foto 10</nombre>
+        <nombre>Conejo</nombre>
         <foto>https://cdn.pixabay.com/photo/2016/12/13/00/13/rabbit-1903016_960_720.jpg</foto>
-        <pie>Conejo</pie>
-        <detalle>Conejo bonito</detalle>
+        <pie>Conejo bonito</pie>
+        <detalle>Conejo MUY bonito</detalle>
     </elemento>
 
 </orla>
