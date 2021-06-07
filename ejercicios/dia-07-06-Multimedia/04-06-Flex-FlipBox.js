@@ -13,8 +13,7 @@ for (let i = 0; i < 6; i++) {
   let num = Math.floor(Math.random() * 7) + 1;
   arrayDesordenado[i] = num;
 }
-/*var devolucion = document.getElementById("arrayDesordenado");
-devolucion.innerHTML = arrayDesordenado;*/
+
 
 function ordenar(mayor) {
   arrayDesordenado.sort(function (a, b) {
