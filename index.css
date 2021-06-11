@@ -1,34 +1,37 @@
 * {
   margin: 0px;
-}
 
-#menuhorizontal {
-    list-style-type:none;
-    display: table;
-    width: 100%;
-    background: #004b98;
-    margin: 0 auto;
+}
+body {
+    background-color: rgb(0, 237, 255, 26%);
   }
-  #menuhorizontal a {
-    background: #004b98;
-    color: white;
-    display: block;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 10px 20px;
+
+
+
+
+  .centrar{
+    display: flex;
+    justify-content: center;
+  }
+
+  .list-group{
+    text-align: center;
+    width: 40%;
+    font-size:20px;
+  }
+  .list-group a:hover{
     text-decoration: none;
   }
-  
-  /* Estilos para centrar elementos del navbar*/
-  /*.centrarElementosLi {
-    margin: auto;
-     width: 100%;
-       background: #004b98;
-  }*/
-  
-  #menuhorizontal li {
-    float:left;
+  .list-group li{
+    background-color: white;
   }
-  
-  #menuhorizontal a:hover {
-    background-color:#336699;
+  .list-group li:hover{
+    background-color: rgb(51, 39, 224);
+    color: white;
   }
+
+  
+  
+
+
+  
