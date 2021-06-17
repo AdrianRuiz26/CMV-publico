@@ -1,0 +1,17 @@
+
+.col{
+    color: rgba(0,0,0,.5);
+    text-align: initial;
+    margin-left: 10%;
+}
+.parrafoFooter{
+    font-size: 1.3rem;
+}
+.linkedinFooter{
+    text-decoration: none;
+    color:rgba(0,0,0,.5);
+}
+
+.container{
+    padding-top: 20px;
+}

@@ -1,0 +1,57 @@
+.nav-link{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 992px) {
+    .justify-content-center {
+        -webkit-box-pack: initial;
+        -ms-flex-pack: initial;
+        justify-content: flex-start;
+    }
+    .navbar{
+        display: block;
+    }
+}
+.botonModoNoche {
+    background-color: #07afcc; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 10rem;
+  }
+  
+  .botonModoNoche:hover {
+    background-color: white; /* Green */
+    color: #07afcc;
+  }
+  
+.iconoModoNoche {
+    width: 15%;
+  }
+ 
+  #header.modoNoche {
+    background-color: rgba(0, 0, 0, 0.527);
+  }
+  
+  #pie.modoNoche {
+    color: white;
+  }
+  #divParrafo.modoNoche:hover {
+    background-color: rgba(44, 38, 38, 0.418);
+  }
+  #subtitulo.modoNoche {
+    background-color: rgba(0, 0, 0, 0.527);
+  }
+  #botonModoNoche.modoNoche {
+    background-color: rgba(255, 255, 255, 0.418);
+  }
+  #menuhorizontal.modoNoche a:hover {
+    background-color: rgba(0, 0, 0, 0.527);
+  }

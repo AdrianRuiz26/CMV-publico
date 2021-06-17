@@ -1,0 +1,28 @@
+
+<ul class="list-group d-inline-block" >
+  <div class="row m-auto w-90">
+  <li *ngFor="let imagen of imagenes" class="my-3 mx-auto" [class.darkMode]="modoNocheActivo == true">
+    <div
+      (click)="rotate(imagen)"
+    >
+      <div class="card" id="{{ imagen._id }}">
+        <div class="flip-box-back">
+          <span>{{ imagen.descripcion }}</span>
+        </div>
+        <div class="flip-box-front">
+          <img
+            class="card-img-top"
+            alt=""
+            src="{{ imagen.picture }}"
+          />
+          <div class="card-body">
+            <h4>{{ imagen.titulo }}</h4>
+            <span>{{ imagen.pieDeFoto }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+</div>
+</ul>
+
