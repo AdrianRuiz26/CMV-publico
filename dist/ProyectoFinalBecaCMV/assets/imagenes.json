@@ -1,42 +1,84 @@
 [
   {
     "_id": "1",
-    "picture": "https://i.imgur.com/zmzERpe.jpg",
-    "titulo": "Holi",
-    "pieDeFoto": "jajalol",
-    "descripcion": "klk",
+    "picture": "https://www.carlogos.org/car-logos/ferrari-logo-750x1100-show.png",
+    "titulo": "Ferrari",
+    "pieDeFoto": "Compañía de automóviles deportivos con sede en Maranello (Módena) Italia.",
+    "descripcion": "Este fabricante es el resultante de la idea de su fundador Enzo Ferrari de crear una marca de automóviles de turismo con prestaciones lujosas y deportivas, basándose en los éxitos obtenidos a partir de la creación de su Scuderia Ferrari de automovilismo en 1929. Sus mejores autos fueron realizados en el taller de Abasto.",
     "canRotate": false
   },
   {
     "_id": "2",
-    "picture": "https://i.imgur.com/gX11Vt5.jpg",
-    "titulo": "Holi",
-    "pieDeFoto": "jajalol",
-    "descripcion": "klk",
+    "picture": "https://www.carlogos.org/car-logos/honda-logo-1700x1150-show.png",
+    "titulo": "Honda",
+    "pieDeFoto": "Honda es una empresa de origen japonés que fabrica automóviles",
+    "descripcion": "Propulsores para vehículos terrestres, acuáticos y aéreos, motocicletas, robots y componentes para la industria automotriz.",
     "canRotate": false
   },
   {
     "_id": "3",
-    "picture": "https://i.imgur.com/pZcUS2Y.jpg",
-    "titulo": "Holi",
-    "pieDeFoto": "jajalol",
-    "descripcion": "klk",
+    "picture": "https://www.carlogos.org/car-logos/lamborghini-logo-1000x1100-show.png",
+    "titulo": "Lamborghini",
+    "pieDeFoto": "Lamborghinies un fabricante italiano de superdeportivos fundado en 1963",
+    "descripcion": "Con sede en Bolognese y que actualmente es parte de la matriz de Volkswagen. Algunos de los nombres de sus automóviles hacen referencia a nombres de toros bravos de lidia indultados (Murciélago), famosos o históricos (Diablo, Aventador), o simplemente palabras relacionadas con la tauromaquia.",
+    "canRotate": false
+  },
+  {
+    "_id": "10",
+    "picture": "https://www.carlogos.org/logo/Mazda-logo-1997-640x550.jpg",
+    "titulo": "Mazda",
+    "pieDeFoto": "Mazda Motor Corporation es un fabricante de automóviles japonés",
+    "descripcion": "Fundada en 1920, con sede principal en Hiroshima, y con plantas en las localidades de Hiroshima (factoría de Ujina), Nishinoura, Nakanoseki (Hofu) y Miyoshi, Japón. En 2010, produjo 1.307.540 automóviles con ventas en China, Japón, Europa, América del Sur y Norteamérica.",
+    "canRotate": false
+  },
+  {
+    "_id": "6",
+    "picture": "https://www.carlogos.org/car-logos/tesla-logo-2200x2800-show.png",
+    "titulo": "Tesla",
+    "pieDeFoto": "Tesla,es una empresa estadounidense con sede en Palo Alto, California, y liderada por Elon Musk, que diseña, fabrica y vende automóviles eléctricos.​",
+    "descripcion": "Fue fundada en julio de 2003 por los ingenieros Martin Eberhard y Marc Tarpenning como Tesla Motors. El nombre de la empresa es un tributo al inventor e ingeniero eléctrico Nikola Tesla. Los siguientes tres empleados fueron Ian Wright, Elon Musk y JB Straubel, quienes fueron nombrados co-fundadores de la compañía",
+    "canRotate": false
+  },
+  {
+    "_id": "7",
+    "picture": "https://www.carlogos.org/car-logos/ford-logo-2017-show.png",
+    "titulo": "Ford",
+    "pieDeFoto": "Ford Motor Company, más conocida como Ford, es una empresa multinacional de origen estadounidense, especializada en la industria automotriz.",
+    "descripcion": "Con su sede central ubicada en Dearborn, Estado de Míchigan, la empresa se expandió a nivel mundial destacándose principalmente en el rubro de producción de automóviles. La compañía tiene presencia a nivel mundial, gracias a sus filiales ubicadas en Alemania, Argentina, Canadá, Chile, España, India, México, Reino Unido y Tailandia, entre otros.",
+    "canRotate": false
+  },
+  {
+    "_id": "9",
+    "picture": "https://www.carlogos.org/logo/Alfa-Romeo-logo-2015-640x550.jpg",
+    "titulo": "Alfa Romeo",
+    "pieDeFoto": "Alfa Romeo es una marca italiana de automóviles fundada en 1910 en Milán, Italia. Actualmente es propiedad del conglomerado Stellantis.",
+    "descripcion": "A lo largo de su historia, la marca se caracterizó por la calidad de sus productos, siendo reconocida por sus automóviles de turismo de alta gama y por sus coches deportivos. En esta última materia, sus coches supieron ser protagonistas en diferentes competiciones internacionales, llegando entre otras cosas a conquistar los dos primeros campeonatos de pilotos de Fórmula 1, en 1950 y 1951",
     "canRotate": false
   },
   {
     "_id": "4",
-    "picture": "https://i.imgur.com/06Ajq7f.jpg",
-    "titulo": "Holi",
-    "pieDeFoto": "jajalol",
-    "descripcion": "klk",
+    "picture": "https://www.carlogos.org/car-logos/nissan-logo-2020-black-show.png",
+    "titulo": "Nissan",
+    "pieDeFoto": "Nissan Motor es un fabricante japonés de automóviles, con base en Yokohama. Su nombre común, Nissan, es un acrónimo de Nippon Sangyo.​",
+    "descripcion": "En 2018, Nissan se convirtió en el mayor fabricante de vehículos eléctricos a nivel mundial, habiendo vendido más de 320.000 unidades1. El vehículo más vendido de su gama eléctrica es el Nissan LEAF",
     "canRotate": false
   },
   {
-    "_id": "5",
-    "picture": "https://i.imgur.com/06Ajq7f.jpg",
-    "titulo": "Holi",
-    "pieDeFoto": "jajalol",
-    "descripcion": "klk",
+    "_id": "11",
+    "picture": "https://www.carlogos.org/logo/Volvo-logo-2014-640x550.jpg",
+    "titulo": "Volvo",
+    "pieDeFoto": "Volvo Cars es una marca de automóviles sueca con sede en Gotemburgo, Suecia subsidiaria de la compañía automotriz china Geely.3",
+    "descripcion": "Fue originalmente fundada en 1927 por el ingeniero Gustav Larson, como una empresa subsidiaria de la fabricante de rodamientos SKF. A pesar de que se suele confundir con el conglomerado de propiedad sueca AB Volvo (fabricante de vehículos industriales, camiones, autobuses y equipamiento de construcción) las dos firmas han sido independientes desde que AB Volvo vendió Volvo Cars en 1999 a Ford Motor Company para ser parte del grupo llamado Premier Automotive Group",
+    "canRotate": false
+  },
+  {
+    "_id": "12",
+    "picture": "https://www.carlogos.org/logo/Rolls-Royce-logo-640x550.jpg",
+    "titulo": "Rolls Royce",
+    "pieDeFoto": "Rolls-Royce Motor Cars es una empresa de automóviles de lujo británica, fundada en 1904, pero que desde 1998 pertenece al Grupo BMW.",
+    "descripcion": "Rolls-Royce tiene sobrenombres como Rolls, Roller o Doble R, aunque en Derby (localidad donde se ubica su casa matriz) la empresa es conocida como Royces. Por otra parte, la frase El Rolls-Royce de X fue utilizada por otras marcas para describir cierto grado de excelencia en calidad de alguno de sus productos, sin embargo, Rolls-Royce se muestra reacia al uso indiscriminado de este dicho y es muy estricta cuando se trata de defender el derecho de su nombre, en frases como esta.",
     "canRotate": false
   }
+  
 ]
+
